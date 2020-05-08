@@ -1,0 +1,1361 @@
+
+<!-- saved from url=(0043)https://ttly.hongbaozhu.com.cn/gzwl/gzly01/ -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+        
+        <meta content="width=device-width,maximum-scale=1.0,minimum-scale=1.0,initial-scale=1.0,user-scalable=no" name="viewport">
+        <meta name="format-detection" content="telephone=no">
+        <title>醉美贵州</title>
+        <script src="./gz_files/utracking.js" async=""></script><script src="./gz_files/sdk"></script><script src="./gz_files/jquery.js"></script>
+        <script src="./gz_files/jquery_002.js"></script>
+       <script src="./gz_files/utracking(1).js" async=""></script>
+<!-- Bytedance Tracking -->
+<script>
+  (function(r,d,s,l){var meteor=r.meteor=r.meteor||[];meteor.methods=["track","off","on"];meteor.factory=function(method){return function(){
+  var args=Array.prototype.slice.call(arguments);args.unshift(method);meteor.push(args);return meteor}};for(var i=0;i<meteor.methods.length;i++){
+  var key=meteor.methods[i];meteor[key]=meteor.factory(key)}meteor.load=function(){var js,fjs=d.getElementsByTagName(s)[0];js=d.createElement(s);
+  js.src="https://analytics.snssdk.com/meteor.js/v1/"+l+"/sdk";fjs.parentNode.insertBefore(js,fjs)};meteor.load();if(meteor.invoked){return}
+  meteor.invoked=true;meteor.track("pageview")})(window,document,"script","1655774550646798");
+</script>
+<!-- End Bytedance Tracking -->
+<script src="./gz_files/saved_resource"></script>
+       <script type="text/javascript">
+            (function(){
+                var e = "https://huichuan.sm.cn/callback/spd?log=headerOnload&url=" + location.href;
+                document.createElement("img").src = e;
+            })();
+        </script>
+        <style>
+                *{margin:0;padding:0;}
+                body, h1, h2, h3, h4, h5, h6, hr, p, blockquote, dl, dt, dd, ul, ol, li, pre, form, fieldset, legend, button, input, textarea, th, td { margin:0; padding:0; }
+                body, button, input, select, textarea { font:12px/1.5tahoma, arial; }
+                h1, h2, h3, h4, h5, h6{ font-size:100%; }
+                address, cite, dfn, em, var { font-style:normal; }
+                code, kbd, pre, samp { font-family:couriernew, courier, monospace; }
+                small{ font-size:12px; }
+                ul, ol { list-style:none; }
+                a { text-decoration:none;color: inherit;}
+                a:hover { text-decoration:underline; }
+                sup { vertical-align:text-top; }
+                sub{ vertical-align:text-bottom; }
+                legend { color:#000; }
+                fieldset, img { border:0; }
+                table { border-collapse:collapse; border-spacing:0; }
+                #companyname{
+                    font-size: 12px;
+                    color: #999;
+                    line-height: 18px;
+                    z-index: 1;
+                    word-break: break-all;
+                    padding:0 20px 70px 20px;
+                    text-align: center;
+                    position: relative;
+                }
+                .focus{
+                    box-shadow: 0 0 2px 2px rgba(74,123,255,0.6) inset;
+                }
+
+                [dg]{
+                    cursor: pointer;
+                }
+                ::-webkit-scrollbar-track
+                {
+                  -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+                  border-radius: 10px;
+                  background-color: #f5f5f5;
+                }
+
+                ::-webkit-scrollbar
+                {
+                  width: 5px;
+                  background-color: #f5f5f5;
+                }
+
+                ::-webkit-scrollbar-thumb
+                {
+                  border-radius: 10px;
+                  -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
+                  background-color: #555;
+                }
+                .theme-1 .theme-color{
+                  background-color:#FFB786;
+                }
+                .theme-2 .theme-color{
+                  background-color:#FF791D;
+                }
+                .theme-3 .theme-color{
+                  background-color:#CC5C0F;
+                }
+                .theme-4 .theme-color{
+                  background-color:#FF82C2;
+                }
+                .theme-5 .theme-color{
+                  background-color:#F95959;
+                }
+                .theme-6 .theme-color{
+                  background-color:#E61818;
+                }
+                .theme-7 .theme-color{
+                  background-color:#7EDFFF;
+                }
+                .theme-8 .theme-color{
+                  background-color:#4187FF;
+                }
+                .theme-9 .theme-color{
+                  background-color:#2A77D1;
+                }
+                .theme-10 .theme-color{
+                  background-color:#6AE27A;
+                }
+                .theme-11 .theme-color{
+                  background-color:#54BB46;
+                }
+                .theme-12 .theme-color{
+                  background-color:#0E8E31;
+                }
+                .theme-13 .theme-color{
+                  background-color:#AEA8D3;
+                }
+                .theme-14 .theme-color{
+                  background-color:#A36FF0;
+                }
+                .theme-15 .theme-color{
+                  background-color:#663399;
+                }
+                .theme-16 .theme-color{
+                  background-color:#112C6E;
+                }
+                .theme-17 .theme-color{
+                  background-color:#12575A;
+                }
+                .theme-18 .theme-color{
+                  background-color:#333234;
+                }
+        </style>
+        
+    <script src="./gz_files/toutiao.js"></script></head>
+    <body>
+       <script type="text/javascript" src="./gz_files/zepto.js"></script>
+        <script type="text/javascript">
+            $.parseUrl = function (url){
+                var parse_url = /^(?:([A-Za-z]+):)?(\/{0,3})([0-9.\-A-Za-z]+)(?::(\d+))?(?:\/([^?#]*))?(?:\?([^#]*))?(?:#(.*))?$/;
+                var p = url.match(parse_url);
+
+                function parseQuery(queryString){
+                    var qs, queries, params, temp, t, i, l;
+                    if (queryString){
+                      qs = queryString.replace(/^\\?/, '');
+
+                      queries = qs.split('&');
+
+                      params  = (queries.length >= 1 && queries[0] !== '') ? {} : null;
+
+                      if (params){
+                        l = queries.length;
+                        for (i = 0; i < l; i++){
+                          temp = queries[i].split('=');
+                          t = temp[0];
+                          params[t] = temp[1];
+                        }
+                      }
+
+                      return params;
+                    }
+                    return null;
+                }
+
+                return {
+                    fullpath: p[0],
+                    protocol: p[1], // => 'http:'
+                    hostname: p[3], // => 'example.com'
+                    port: p[4], // => '3000'
+                    pathname: p[5], // => 'pathname/test'
+                    pathsplit: p[5].split('/'),  // => '['pathname' 'test']'
+                    fullquery: p[6],  // => '?search=test'
+                    query: parseQuery(p[6])||{}, // {seach:'test'}
+                    hash: p[7] //
+                }
+            }
+        </script>
+        <script>
+            window.UCSITE = {
+                userId:"210414903",
+                companyName:"惠州市艾尚游旅游服务有限公司",
+                pageType:"long",
+                trackHost:"huichuan.sm.cn",
+                host:location.origin + location.pathname,
+                referrer:document.referrer,
+                uTrackId:$.parseUrl(location.href).query.uctrackid
+            }
+        </script>
+        <div id="frame-wrap" dg="C10D937--frame--frame" class="theme-2"><style>div[dg="C10D937--frame--frame"] .frame-bd > [_slot_inner_]{
+            min-height:500px;
+            position: relative;
+        }
+
+        div[dg="C10D937--frame--frame"] .frame-bd{
+            position: relative;
+        }</style><script type="text/javascript">(function(w,d,t,s,q,m,n){if(w.utq)return;q=w.utq=function(){q.process?q.process(arguments):q.queue.push(arguments);};q.queue=[];m=d.getElementsByTagName(t)[0];n=d.createElement(t);n.src=s;n.async=true;m.parentNode.insertBefore(n,m);})(window,document,'script','https://image.uc.cn/s/uae/g/0s/ad/utracking.js');utq('set', 'convertMode', true);utq('set', 'trackurl', UCSITE.trackHost + '/callback/ms/track');</script><div class="frame-bd" style="background-color:#fff;"><div _slot_inner_="">   <div dg="226B957--images--layer" style=""><style>div[dg="226B957--images--layer"] > img {
+            width: 100%;
+            height: inherit;
+        }</style> <img src="./gz_files/IMTk2MTE1ODc2MzE2NTYwNThfOTIyMzM3MDQ0OTAxMjcwNDg0NgSQ.jpg" data-link="" data-track-key="" data-elem-name="图片" data-elem-id="DE2F03CF-AB47-4368-9453-423582087D6B"> <script type="text/javascript">(function() {
+
+            var gid = "226B957--images--layer";
+            var trackID = "219CABA7-96A4-465C-B341-E21363D5E336";
+            var rootEl = $("[dg='"+ gid +"']");  
+
+            function joinTrackId(url, trackID){
+
+                var search = 'uctrackid=' + UCSITE.uTrackId + '&userId='+ UCSITE.userId +'&compId=' + trackID;
+
+                if(url.indexOf('?') > -1){
+                    return url + '&' + search;
+                }else{
+                    return url + '?' + search;
+                }
+            }
+
+            if (UCSITE.env != 'offline') {
+                //点击事件
+                rootEl.on('click', 'img', function(e) {
+                    var link = $(this).data('link');
+                    var elemName = $(this).data('elemName');
+                    var elemId = $(this).data('elemId');
+                    var trackTypeLanKey = $(this).data('trackKey');
+                    var isDcdLink = link.indexOf('dcdcrm') > -1;
+
+                    if (link) {
+                        utq('trackCustom', trackTypeLanKey, {
+                            compName: '图片',
+                            compId:trackID,
+                            compType: '2',
+                            elemName: elemName,
+                            elemId: elemId,
+                            host: UCSITE.host,
+                            referrer: UCSITE.referrer,
+                            userId: UCSITE.userId,
+                            pageType:UCSITE.pageType,
+                            productType: isDcdLink ? 'dcd' : ''
+                        }, trackID);
+
+                        if(isDcdLink){
+                            var url = joinTrackId(link, trackID);
+                            window.open(url);
+                        }else{
+                            location.href = link;
+                        }
+                    }
+                });
+            }
+        })();</script></div>   <div dg="46F2C5C--images--layer" style=""><style>div[dg="46F2C5C--images--layer"] > img {
+            width: 100%;
+            height: inherit;
+        }</style> <img src="./gz_files/IMTk2MTE1ODc2MzE2NTYwNThfOTIyMzM3MDQ0OTAxMjcwNDg0NgSQ.gif" data-link="" data-track-key="" data-elem-name="图片" data-elem-id="DE2F03CF-AB47-4368-9453-423582087D6B"> <script type="text/javascript">(function() {
+
+            var gid = "46F2C5C--images--layer";
+            var trackID = "51EECDA7-D541-4510-8D71-80E3D4A02EAE";
+            var rootEl = $("[dg='"+ gid +"']");  
+
+            function joinTrackId(url, trackID){
+
+                var search = 'uctrackid=' + UCSITE.uTrackId + '&userId='+ UCSITE.userId +'&compId=' + trackID;
+
+                if(url.indexOf('?') > -1){
+                    return url + '&' + search;
+                }else{
+                    return url + '?' + search;
+                }
+            }
+
+            if (UCSITE.env != 'offline') {
+                //点击事件
+                rootEl.on('click', 'img', function(e) {
+                    var link = $(this).data('link');
+                    var elemName = $(this).data('elemName');
+                    var elemId = $(this).data('elemId');
+                    var trackTypeLanKey = $(this).data('trackKey');
+                    var isDcdLink = link.indexOf('dcdcrm') > -1;
+
+                    if (link) {
+                        utq('trackCustom', trackTypeLanKey, {
+                            compName: '图片',
+                            compId:trackID,
+                            compType: '2',
+                            elemName: elemName,
+                            elemId: elemId,
+                            host: UCSITE.host,
+                            referrer: UCSITE.referrer,
+                            userId: UCSITE.userId,
+                            pageType:UCSITE.pageType,
+                            productType: isDcdLink ? 'dcd' : ''
+                        }, trackID);
+
+                        if(isDcdLink){
+                            var url = joinTrackId(link, trackID);
+                            window.open(url);
+                        }else{
+                            location.href = link;
+                        }
+                    }
+                });
+            }
+        })();</script></div><div dg="4706BF9--freeZone--layout" class="freeZone"><style>div[dg="4706BF9--freeZone--layout"] > [_slot_inner_]{
+			position:relative;
+			overflow:hidden;
+		}
+		div[dg="4706BF9--freeZone--layout"] > [_slot_inner_] > [dg]{
+			position: absolute;
+			top:0;
+			left:0;
+			overflow: hidden;
+		}</style><div _slot_inner_="" style="height:50vw;;">   <div dg="5FF4172--texts--layer" style="font-size:24px;text-align:center;color:#000000;    width:98.4375vw;    top:3.75vw;    height:22.1875vw;    left:-0.625vw;    z-index:0;    overflow:hidden;   "><p data-link="" data-elem-name="文字" data-elem-id="D17E1D59-9A36-46D8-88A8-6E3E6FCBAEB3" data-track-key="">添加私人订制师微信，开启您的贵州浪漫之旅！</p><style>div[dg="5FF4172--texts--layer"] p {
+            word-break: break-word;
+        }
+        div[dg="5FF4172--texts--layer"] p:before {
+            content: "1";
+            display: inline-block;
+            opacity: 0;
+            width: 0;
+        }</style><script type="text/javascript">(function() {
+
+            // 渲染或者保存时注入
+            var gid = "5FF4172--texts--layer";
+            var trackID = "F278621B-4379-49D3-B4DE-27106E000603";
+            var $el = $("[dg='"+ gid +"'] p");
+
+            function joinTrackId(url, trackID){
+
+                var search = 'uctrackid=' + UCSITE.uTrackId + '&userId='+ UCSITE.userId +'&compId=' + trackID;
+
+                if(url.indexOf('?') > -1){
+                    return url + '&' + search;
+                }else{
+                    return url + '?' + search;
+                }
+            }
+
+            if (UCSITE.env != 'offline') {
+
+                //点击事件
+                $el.on('click', function(e) {
+                    var link = $(this).data('link');
+                    var elemName = $(this).data('elemName');
+                    var elemId = $(this).data('elemId');
+                    var trackTypeLanKey = $(this).data('trackKey');
+                    var isDcdLink = link.indexOf('dcdcrm.com') > -1;
+
+                    if (link) {
+                        utq('trackCustom', trackTypeLanKey, {
+                            compName: '文字',
+                            compId:trackID,
+                            compType: '1',
+                            elemName: elemName,
+                            elemId: elemId,
+                            host: UCSITE.host,
+                            referrer: UCSITE.referrer,
+                            userId: UCSITE.userId,
+                            pageType:UCSITE.pageType,
+                            productType: isDcdLink ? 'dcd' : ''
+                        }, trackID);
+
+                        if(isDcdLink){
+                            var url = joinTrackId(link, trackID);
+                            window.open(url);
+                        }else{
+                            location.href = link;
+                        }
+                    }
+                });
+            }
+
+        })();</script></div>   <div dg="0842422--texts--layer" style="font-size:24px;font-weight:bold;text-align:center;color:#E40707;    width:98.4375vw;    top:25.0vw;    height:9.6875vw;    left:0.625vw;    z-index:0;    overflow:hidden;   "><p data-link="" data-elem-name="文字" data-elem-id="D17E1D59-9A36-46D8-88A8-6E3E6FCBAEB3" data-track-key="" class="wuk_weixin" id="text" onclick="copyText()">{{arr.wx_id}}</p><style>div[dg="0842422--texts--layer"] p {
+            word-break: break-word;
+        }
+        div[dg="0842422--texts--layer"] p:before {
+            content: "1";
+            display: inline-block;
+            opacity: 0;
+            width: 0;
+        }</style><script type="text/javascript">(function() {
+
+            // 渲染或者保存时注入
+            var gid = "0842422--texts--layer";
+            var trackID = "791B30D1-EB1F-480C-886C-26C2A3137824";
+            var $el = $("[dg='"+ gid +"'] p");
+
+            function joinTrackId(url, trackID){
+
+                var search = 'uctrackid=' + UCSITE.uTrackId + '&userId='+ UCSITE.userId +'&compId=' + trackID;
+
+                if(url.indexOf('?') > -1){
+                    return url + '&' + search;
+                }else{
+                    return url + '?' + search;
+                }
+            }
+
+            if (UCSITE.env != 'offline') {
+
+                //点击事件
+                $el.on('click', function(e) {
+                    var link = $(this).data('link');
+                    var elemName = $(this).data('elemName');
+                    var elemId = $(this).data('elemId');
+                    var trackTypeLanKey = $(this).data('trackKey');
+                    var isDcdLink = link.indexOf('dcdcrm.com') > -1;
+
+                    if (link) {
+                        utq('trackCustom', trackTypeLanKey, {
+                            compName: '文字',
+                            compId:trackID,
+                            compType: '1',
+                            elemName: elemName,
+                            elemId: elemId,
+                            host: UCSITE.host,
+                            referrer: UCSITE.referrer,
+                            userId: UCSITE.userId,
+                            pageType:UCSITE.pageType,
+                            productType: isDcdLink ? 'dcd' : ''
+                        }, trackID);
+
+                        if(isDcdLink){
+                            var url = joinTrackId(link, trackID);
+                            window.open(url);
+                        }else{
+                            location.href = link;
+                        }
+                    }
+                });
+            }
+
+        })();</script></div>   <div dg="BEFDEE7--texts--layer" style="font-size:18px;font-weight:bold;text-align:center;color:#EB0C0C;    width:98.4375vw;    top:33.4375vw;    height:9.375vw;    left:-0.3125vw;    z-index:0;    overflow:hidden;   "><p data-link="" data-elem-name="文字" data-elem-id="D17E1D59-9A36-46D8-88A8-6E3E6FCBAEB3" data-track-key="">△点击复制上方微信号△</p><style>div[dg="BEFDEE7--texts--layer"] p {
+            word-break: break-word;
+        }
+        div[dg="BEFDEE7--texts--layer"] p:before {
+            content: "1";
+            display: inline-block;
+            opacity: 0;
+            width: 0;
+        }</style><script type="text/javascript">(function() {
+
+            // 渲染或者保存时注入
+            var gid = "BEFDEE7--texts--layer";
+            var trackID = "0E421C15-01CC-4207-A0E5-899CC464C814";
+            var $el = $("[dg='"+ gid +"'] p");
+
+            function joinTrackId(url, trackID){
+
+                var search = 'uctrackid=' + UCSITE.uTrackId + '&userId='+ UCSITE.userId +'&compId=' + trackID;
+
+                if(url.indexOf('?') > -1){
+                    return url + '&' + search;
+                }else{
+                    return url + '?' + search;
+                }
+            }
+
+            if (UCSITE.env != 'offline') {
+
+                //点击事件
+                $el.on('click', function(e) {
+                    var link = $(this).data('link');
+                    var elemName = $(this).data('elemName');
+                    var elemId = $(this).data('elemId');
+                    var trackTypeLanKey = $(this).data('trackKey');
+                    var isDcdLink = link.indexOf('dcdcrm.com') > -1;
+
+                    if (link) {
+                        utq('trackCustom', trackTypeLanKey, {
+                            compName: '文字',
+                            compId:trackID,
+                            compType: '1',
+                            elemName: elemName,
+                            elemId: elemId,
+                            host: UCSITE.host,
+                            referrer: UCSITE.referrer,
+                            userId: UCSITE.userId,
+                            pageType:UCSITE.pageType,
+                            productType: isDcdLink ? 'dcd' : ''
+                        }, trackID);
+
+                        if(isDcdLink){
+                            var url = joinTrackId(link, trackID);
+                            window.open(url);
+                        }else{
+                            location.href = link;
+                        }
+                    }
+                });
+            }
+
+        })();</script></div></div></div>   <div dg="0C8669E--images--layer" style=""><style>div[dg="0C8669E--images--layer"] > img {
+            width: 100%;
+            height: inherit;
+        }</style> <img src="./gz_files/IMTk2MTE1ODc2MzE2NTYwNThfOTIyMzM3MDQ0OTAxMjcwNDg0NgSQ_007.jpg" data-link="" data-track-key="" data-elem-name="图片" data-elem-id="DE2F03CF-AB47-4368-9453-423582087D6B"> <script type="text/javascript">(function() {
+
+            var gid = "0C8669E--images--layer";
+            var trackID = "8A4590DD-389D-4D4A-9A34-B71347C47D72";
+            var rootEl = $("[dg='"+ gid +"']");  
+
+            function joinTrackId(url, trackID){
+
+                var search = 'uctrackid=' + UCSITE.uTrackId + '&userId='+ UCSITE.userId +'&compId=' + trackID;
+
+                if(url.indexOf('?') > -1){
+                    return url + '&' + search;
+                }else{
+                    return url + '?' + search;
+                }
+            }
+
+            if (UCSITE.env != 'offline') {
+                //点击事件
+                rootEl.on('click', 'img', function(e) {
+                    var link = $(this).data('link');
+                    var elemName = $(this).data('elemName');
+                    var elemId = $(this).data('elemId');
+                    var trackTypeLanKey = $(this).data('trackKey');
+                    var isDcdLink = link.indexOf('dcdcrm') > -1;
+
+                    if (link) {
+                        utq('trackCustom', trackTypeLanKey, {
+                            compName: '图片',
+                            compId:trackID,
+                            compType: '2',
+                            elemName: elemName,
+                            elemId: elemId,
+                            host: UCSITE.host,
+                            referrer: UCSITE.referrer,
+                            userId: UCSITE.userId,
+                            pageType:UCSITE.pageType,
+                            productType: isDcdLink ? 'dcd' : ''
+                        }, trackID);
+
+                        if(isDcdLink){
+                            var url = joinTrackId(link, trackID);
+                            window.open(url);
+                        }else{
+                            location.href = link;
+                        }
+                    }
+                });
+            }
+        })();</script></div>   <div dg="8A367A2--images--layer" style=""><style>div[dg="8A367A2--images--layer"] > img {
+            width: 100%;
+            height: inherit;
+        }</style> <img src="./gz_files/IMTk2MTE1ODc2MzE2NTYwNThfOTIyMzM3MDQ0OTAxMjcwNDg0NgSQ_008.jpg" data-link="" data-track-key="" data-elem-name="图片" data-elem-id="DE2F03CF-AB47-4368-9453-423582087D6B"> <script type="text/javascript">(function() {
+
+            var gid = "8A367A2--images--layer";
+            var trackID = "7E60D0B3-B1F6-4DF2-A0AF-39DA73D288B7";
+            var rootEl = $("[dg='"+ gid +"']");  
+
+            function joinTrackId(url, trackID){
+
+                var search = 'uctrackid=' + UCSITE.uTrackId + '&userId='+ UCSITE.userId +'&compId=' + trackID;
+
+                if(url.indexOf('?') > -1){
+                    return url + '&' + search;
+                }else{
+                    return url + '?' + search;
+                }
+            }
+
+            if (UCSITE.env != 'offline') {
+                //点击事件
+                rootEl.on('click', 'img', function(e) {
+                    var link = $(this).data('link');
+                    var elemName = $(this).data('elemName');
+                    var elemId = $(this).data('elemId');
+                    var trackTypeLanKey = $(this).data('trackKey');
+                    var isDcdLink = link.indexOf('dcdcrm') > -1;
+
+                    if (link) {
+                        utq('trackCustom', trackTypeLanKey, {
+                            compName: '图片',
+                            compId:trackID,
+                            compType: '2',
+                            elemName: elemName,
+                            elemId: elemId,
+                            host: UCSITE.host,
+                            referrer: UCSITE.referrer,
+                            userId: UCSITE.userId,
+                            pageType:UCSITE.pageType,
+                            productType: isDcdLink ? 'dcd' : ''
+                        }, trackID);
+
+                        if(isDcdLink){
+                            var url = joinTrackId(link, trackID);
+                            window.open(url);
+                        }else{
+                            location.href = link;
+                        }
+                    }
+                });
+            }
+        })();</script></div>   <div dg="E2B10B2--images--layer" style=""><style>div[dg="E2B10B2--images--layer"] > img {
+            width: 100%;
+            height: inherit;
+        }</style> <img src="./gz_files/IMTk2MTE1ODc2MzE2NTYwNThfOTIyMzM3MDQ0OTAxMjcwNDg0NgSQ_011.jpg" data-link="" data-track-key="" data-elem-name="图片" data-elem-id="DE2F03CF-AB47-4368-9453-423582087D6B"> <script type="text/javascript">(function() {
+
+            var gid = "E2B10B2--images--layer";
+            var trackID = "0978F282-93B6-42A0-8BED-41C737EFCA2D";
+            var rootEl = $("[dg='"+ gid +"']");  
+
+            function joinTrackId(url, trackID){
+
+                var search = 'uctrackid=' + UCSITE.uTrackId + '&userId='+ UCSITE.userId +'&compId=' + trackID;
+
+                if(url.indexOf('?') > -1){
+                    return url + '&' + search;
+                }else{
+                    return url + '?' + search;
+                }
+            }
+
+            if (UCSITE.env != 'offline') {
+                //点击事件
+                rootEl.on('click', 'img', function(e) {
+                    var link = $(this).data('link');
+                    var elemName = $(this).data('elemName');
+                    var elemId = $(this).data('elemId');
+                    var trackTypeLanKey = $(this).data('trackKey');
+                    var isDcdLink = link.indexOf('dcdcrm') > -1;
+
+                    if (link) {
+                        utq('trackCustom', trackTypeLanKey, {
+                            compName: '图片',
+                            compId:trackID,
+                            compType: '2',
+                            elemName: elemName,
+                            elemId: elemId,
+                            host: UCSITE.host,
+                            referrer: UCSITE.referrer,
+                            userId: UCSITE.userId,
+                            pageType:UCSITE.pageType,
+                            productType: isDcdLink ? 'dcd' : ''
+                        }, trackID);
+
+                        if(isDcdLink){
+                            var url = joinTrackId(link, trackID);
+                            window.open(url);
+                        }else{
+                            location.href = link;
+                        }
+                    }
+                });
+            }
+        })();</script></div>   <div dg="94B1B93--images--layer" style=""><style>div[dg="94B1B93--images--layer"] > img {
+            width: 100%;
+            height: inherit;
+        }</style> <img src="./gz_files/IMTk2MTE1ODc2MzE2NTYwNThfOTIyMzM3MDQ0OTAxMjcwNDg0NgSQ_004.jpg" data-link="" data-track-key="" data-elem-name="图片" data-elem-id="DE2F03CF-AB47-4368-9453-423582087D6B"> <script type="text/javascript">(function() {
+
+            var gid = "94B1B93--images--layer";
+            var trackID = "547E5B91-3521-48AA-83A8-19B6623807E2";
+            var rootEl = $("[dg='"+ gid +"']");  
+
+            function joinTrackId(url, trackID){
+
+                var search = 'uctrackid=' + UCSITE.uTrackId + '&userId='+ UCSITE.userId +'&compId=' + trackID;
+
+                if(url.indexOf('?') > -1){
+                    return url + '&' + search;
+                }else{
+                    return url + '?' + search;
+                }
+            }
+
+            if (UCSITE.env != 'offline') {
+                //点击事件
+                rootEl.on('click', 'img', function(e) {
+                    var link = $(this).data('link');
+                    var elemName = $(this).data('elemName');
+                    var elemId = $(this).data('elemId');
+                    var trackTypeLanKey = $(this).data('trackKey');
+                    var isDcdLink = link.indexOf('dcdcrm') > -1;
+
+                    if (link) {
+                        utq('trackCustom', trackTypeLanKey, {
+                            compName: '图片',
+                            compId:trackID,
+                            compType: '2',
+                            elemName: elemName,
+                            elemId: elemId,
+                            host: UCSITE.host,
+                            referrer: UCSITE.referrer,
+                            userId: UCSITE.userId,
+                            pageType:UCSITE.pageType,
+                            productType: isDcdLink ? 'dcd' : ''
+                        }, trackID);
+
+                        if(isDcdLink){
+                            var url = joinTrackId(link, trackID);
+                            window.open(url);
+                        }else{
+                            location.href = link;
+                        }
+                    }
+                });
+            }
+        })();</script></div>   <div dg="1A99A4A--images--layer" style=""><style>div[dg="1A99A4A--images--layer"] > img {
+            width: 100%;
+            height: inherit;
+        }</style> <img src="./gz_files/IMTk2MTE1ODc2MzE2NTYwNThfOTIyMzM3MDQ0OTAxMjcwNDg0NgSQ_009.jpg" data-link="" data-track-key="" data-elem-name="图片" data-elem-id="DE2F03CF-AB47-4368-9453-423582087D6B"> <script type="text/javascript">(function() {
+
+            var gid = "1A99A4A--images--layer";
+            var trackID = "7DDC004C-AB72-4F94-91F4-E6DD97857B5D";
+            var rootEl = $("[dg='"+ gid +"']");  
+
+            function joinTrackId(url, trackID){
+
+                var search = 'uctrackid=' + UCSITE.uTrackId + '&userId='+ UCSITE.userId +'&compId=' + trackID;
+
+                if(url.indexOf('?') > -1){
+                    return url + '&' + search;
+                }else{
+                    return url + '?' + search;
+                }
+            }
+
+            if (UCSITE.env != 'offline') {
+                //点击事件
+                rootEl.on('click', 'img', function(e) {
+                    var link = $(this).data('link');
+                    var elemName = $(this).data('elemName');
+                    var elemId = $(this).data('elemId');
+                    var trackTypeLanKey = $(this).data('trackKey');
+                    var isDcdLink = link.indexOf('dcdcrm') > -1;
+
+                    if (link) {
+                        utq('trackCustom', trackTypeLanKey, {
+                            compName: '图片',
+                            compId:trackID,
+                            compType: '2',
+                            elemName: elemName,
+                            elemId: elemId,
+                            host: UCSITE.host,
+                            referrer: UCSITE.referrer,
+                            userId: UCSITE.userId,
+                            pageType:UCSITE.pageType,
+                            productType: isDcdLink ? 'dcd' : ''
+                        }, trackID);
+
+                        if(isDcdLink){
+                            var url = joinTrackId(link, trackID);
+                            window.open(url);
+                        }else{
+                            location.href = link;
+                        }
+                    }
+                });
+            }
+        })();</script></div>   <div dg="F553566--images--layer" style=""><style>div[dg="F553566--images--layer"] > img {
+            width: 100%;
+            height: inherit;
+        }</style> <img src="./gz_files/IMTk2MTE1ODc2MzE2NTYwNThfOTIyMzM3MDQ0OTAxMjcwNDg0NgSQ_005.jpg" data-link="" data-track-key="" data-elem-name="图片" data-elem-id="DE2F03CF-AB47-4368-9453-423582087D6B"> <script type="text/javascript">(function() {
+
+            var gid = "F553566--images--layer";
+            var trackID = "738506C5-4080-4013-9AEB-5C47D4306ED4";
+            var rootEl = $("[dg='"+ gid +"']");  
+
+            function joinTrackId(url, trackID){
+
+                var search = 'uctrackid=' + UCSITE.uTrackId + '&userId='+ UCSITE.userId +'&compId=' + trackID;
+
+                if(url.indexOf('?') > -1){
+                    return url + '&' + search;
+                }else{
+                    return url + '?' + search;
+                }
+            }
+
+            if (UCSITE.env != 'offline') {
+                //点击事件
+                rootEl.on('click', 'img', function(e) {
+                    var link = $(this).data('link');
+                    var elemName = $(this).data('elemName');
+                    var elemId = $(this).data('elemId');
+                    var trackTypeLanKey = $(this).data('trackKey');
+                    var isDcdLink = link.indexOf('dcdcrm') > -1;
+
+                    if (link) {
+                        utq('trackCustom', trackTypeLanKey, {
+                            compName: '图片',
+                            compId:trackID,
+                            compType: '2',
+                            elemName: elemName,
+                            elemId: elemId,
+                            host: UCSITE.host,
+                            referrer: UCSITE.referrer,
+                            userId: UCSITE.userId,
+                            pageType:UCSITE.pageType,
+                            productType: isDcdLink ? 'dcd' : ''
+                        }, trackID);
+
+                        if(isDcdLink){
+                            var url = joinTrackId(link, trackID);
+                            window.open(url);
+                        }else{
+                            location.href = link;
+                        }
+                    }
+                });
+            }
+        })();</script></div>   <div dg="7D7117A--images--layer" style=""><style>div[dg="7D7117A--images--layer"] > img {
+            width: 100%;
+            height: inherit;
+        }</style> <img src="./gz_files/IMTk2MTE1ODc2MzE2NTYwNThfOTIyMzM3MDQ0OTAxMjcwNDg0NgSQ_010.jpg" data-link="" data-track-key="" data-elem-name="图片" data-elem-id="DE2F03CF-AB47-4368-9453-423582087D6B"> <script type="text/javascript">(function() {
+
+            var gid = "7D7117A--images--layer";
+            var trackID = "FB3F0905-5ED1-4A67-AE0D-E8D6BFF8C6B4";
+            var rootEl = $("[dg='"+ gid +"']");  
+
+            function joinTrackId(url, trackID){
+
+                var search = 'uctrackid=' + UCSITE.uTrackId + '&userId='+ UCSITE.userId +'&compId=' + trackID;
+
+                if(url.indexOf('?') > -1){
+                    return url + '&' + search;
+                }else{
+                    return url + '?' + search;
+                }
+            }
+
+            if (UCSITE.env != 'offline') {
+                //点击事件
+                rootEl.on('click', 'img', function(e) {
+                    var link = $(this).data('link');
+                    var elemName = $(this).data('elemName');
+                    var elemId = $(this).data('elemId');
+                    var trackTypeLanKey = $(this).data('trackKey');
+                    var isDcdLink = link.indexOf('dcdcrm') > -1;
+
+                    if (link) {
+                        utq('trackCustom', trackTypeLanKey, {
+                            compName: '图片',
+                            compId:trackID,
+                            compType: '2',
+                            elemName: elemName,
+                            elemId: elemId,
+                            host: UCSITE.host,
+                            referrer: UCSITE.referrer,
+                            userId: UCSITE.userId,
+                            pageType:UCSITE.pageType,
+                            productType: isDcdLink ? 'dcd' : ''
+                        }, trackID);
+
+                        if(isDcdLink){
+                            var url = joinTrackId(link, trackID);
+                            window.open(url);
+                        }else{
+                            location.href = link;
+                        }
+                    }
+                });
+            }
+        })();</script></div>   <div dg="4ADBFF0--images--layer" style=""><style>div[dg="4ADBFF0--images--layer"] > img {
+            width: 100%;
+            height: inherit;
+        }</style> <img src="./gz_files/IMTk2MTE1ODc2MzE2NTYwNThfOTIyMzM3MDQ0OTAxMjcwNDg0NgSQ_006.jpg" data-link="" data-track-key="" data-elem-name="图片" data-elem-id="DE2F03CF-AB47-4368-9453-423582087D6B"> <script type="text/javascript">(function() {
+
+            var gid = "4ADBFF0--images--layer";
+            var trackID = "6C5DF70A-B28F-405E-8ED3-CCB17454680C";
+            var rootEl = $("[dg='"+ gid +"']");  
+
+            function joinTrackId(url, trackID){
+
+                var search = 'uctrackid=' + UCSITE.uTrackId + '&userId='+ UCSITE.userId +'&compId=' + trackID;
+
+                if(url.indexOf('?') > -1){
+                    return url + '&' + search;
+                }else{
+                    return url + '?' + search;
+                }
+            }
+
+            if (UCSITE.env != 'offline') {
+                //点击事件
+                rootEl.on('click', 'img', function(e) {
+                    var link = $(this).data('link');
+                    var elemName = $(this).data('elemName');
+                    var elemId = $(this).data('elemId');
+                    var trackTypeLanKey = $(this).data('trackKey');
+                    var isDcdLink = link.indexOf('dcdcrm') > -1;
+
+                    if (link) {
+                        utq('trackCustom', trackTypeLanKey, {
+                            compName: '图片',
+                            compId:trackID,
+                            compType: '2',
+                            elemName: elemName,
+                            elemId: elemId,
+                            host: UCSITE.host,
+                            referrer: UCSITE.referrer,
+                            userId: UCSITE.userId,
+                            pageType:UCSITE.pageType,
+                            productType: isDcdLink ? 'dcd' : ''
+                        }, trackID);
+
+                        if(isDcdLink){
+                            var url = joinTrackId(link, trackID);
+                            window.open(url);
+                        }else{
+                            location.href = link;
+                        }
+                    }
+                });
+            }
+        })();</script></div>   <div dg="F5D01FF--images--layer" style=""><style>div[dg="F5D01FF--images--layer"] > img {
+            width: 100%;
+            height: inherit;
+        }</style> <img src="./gz_files/IMTk2MTE1ODc2MzE2NTYwNThfOTIyMzM3MDQ0OTAxMjcwNDg0NgSQ_002.jpg" data-link="" data-track-key="" data-elem-name="图片" data-elem-id="DE2F03CF-AB47-4368-9453-423582087D6B"> <script type="text/javascript">(function() {
+
+            var gid = "F5D01FF--images--layer";
+            var trackID = "F1BEC219-766E-4344-AF47-8D576277CE73";
+            var rootEl = $("[dg='"+ gid +"']");  
+
+            function joinTrackId(url, trackID){
+
+                var search = 'uctrackid=' + UCSITE.uTrackId + '&userId='+ UCSITE.userId +'&compId=' + trackID;
+
+                if(url.indexOf('?') > -1){
+                    return url + '&' + search;
+                }else{
+                    return url + '?' + search;
+                }
+            }
+
+            if (UCSITE.env != 'offline') {
+                //点击事件
+                rootEl.on('click', 'img', function(e) {
+                    var link = $(this).data('link');
+                    var elemName = $(this).data('elemName');
+                    var elemId = $(this).data('elemId');
+                    var trackTypeLanKey = $(this).data('trackKey');
+                    var isDcdLink = link.indexOf('dcdcrm') > -1;
+
+                    if (link) {
+                        utq('trackCustom', trackTypeLanKey, {
+                            compName: '图片',
+                            compId:trackID,
+                            compType: '2',
+                            elemName: elemName,
+                            elemId: elemId,
+                            host: UCSITE.host,
+                            referrer: UCSITE.referrer,
+                            userId: UCSITE.userId,
+                            pageType:UCSITE.pageType,
+                            productType: isDcdLink ? 'dcd' : ''
+                        }, trackID);
+
+                        if(isDcdLink){
+                            var url = joinTrackId(link, trackID);
+                            window.open(url);
+                        }else{
+                            location.href = link;
+                        }
+                    }
+                });
+            }
+        })();</script></div>   <div dg="EEBBEE3--images--layer" style=""><style>div[dg="EEBBEE3--images--layer"] > img {
+            width: 100%;
+            height: inherit;
+        }</style> <img src="./gz_files/IMTk2MTE1ODc2MzE2NTYwNThfOTIyMzM3MDQ0OTAxMjcwNDg0NgSQ_003.jpg" data-link="" data-track-key="" data-elem-name="图片" data-elem-id="DE2F03CF-AB47-4368-9453-423582087D6B"> <script type="text/javascript">(function() {
+
+            var gid = "EEBBEE3--images--layer";
+            var trackID = "50F5A2F7-070D-4254-87EF-44C21BB28DDC";
+            var rootEl = $("[dg='"+ gid +"']");  
+
+            function joinTrackId(url, trackID){
+
+                var search = 'uctrackid=' + UCSITE.uTrackId + '&userId='+ UCSITE.userId +'&compId=' + trackID;
+
+                if(url.indexOf('?') > -1){
+                    return url + '&' + search;
+                }else{
+                    return url + '?' + search;
+                }
+            }
+
+            if (UCSITE.env != 'offline') {
+                //点击事件
+                rootEl.on('click', 'img', function(e) {
+                    var link = $(this).data('link');
+                    var elemName = $(this).data('elemName');
+                    var elemId = $(this).data('elemId');
+                    var trackTypeLanKey = $(this).data('trackKey');
+                    var isDcdLink = link.indexOf('dcdcrm') > -1;
+
+                    if (link) {
+                        utq('trackCustom', trackTypeLanKey, {
+                            compName: '图片',
+                            compId:trackID,
+                            compType: '2',
+                            elemName: elemName,
+                            elemId: elemId,
+                            host: UCSITE.host,
+                            referrer: UCSITE.referrer,
+                            userId: UCSITE.userId,
+                            pageType:UCSITE.pageType,
+                            productType: isDcdLink ? 'dcd' : ''
+                        }, trackID);
+
+                        if(isDcdLink){
+                            var url = joinTrackId(link, trackID);
+                            window.open(url);
+                        }else{
+                            location.href = link;
+                        }
+                    }
+                });
+            }
+        })();</script></div>   <div dg="35AE6BC--texts--layer" style="font-size:36px;text-align:center;color:#000000; "><p data-link="" data-elem-name="文字" data-elem-id="D17E1D59-9A36-46D8-88A8-6E3E6FCBAEB3" data-track-key="">添加私人订制师微信，开启您的贵州浪漫之旅！</p><style>div[dg="35AE6BC--texts--layer"] p {
+            word-break: break-word;
+        }
+        div[dg="35AE6BC--texts--layer"] p:before {
+            content: "1";
+            display: inline-block;
+            opacity: 0;
+            width: 0;
+        }</style><script type="text/javascript">(function() {
+
+            // 渲染或者保存时注入
+            var gid = "35AE6BC--texts--layer";
+            var trackID = "73813543-6F11-430D-B741-DCA8DD9A97B7";
+            var $el = $("[dg='"+ gid +"'] p");
+
+            function joinTrackId(url, trackID){
+
+                var search = 'uctrackid=' + UCSITE.uTrackId + '&userId='+ UCSITE.userId +'&compId=' + trackID;
+
+                if(url.indexOf('?') > -1){
+                    return url + '&' + search;
+                }else{
+                    return url + '?' + search;
+                }
+            }
+
+            if (UCSITE.env != 'offline') {
+
+                //点击事件
+                $el.on('click', function(e) {
+                    var link = $(this).data('link');
+                    var elemName = $(this).data('elemName');
+                    var elemId = $(this).data('elemId');
+                    var trackTypeLanKey = $(this).data('trackKey');
+                    var isDcdLink = link.indexOf('dcdcrm.com') > -1;
+
+                    if (link) {
+                        utq('trackCustom', trackTypeLanKey, {
+                            compName: '文字',
+                            compId:trackID,
+                            compType: '1',
+                            elemName: elemName,
+                            elemId: elemId,
+                            host: UCSITE.host,
+                            referrer: UCSITE.referrer,
+                            userId: UCSITE.userId,
+                            pageType:UCSITE.pageType,
+                            productType: isDcdLink ? 'dcd' : ''
+                        }, trackID);
+
+                        if(isDcdLink){
+                            var url = joinTrackId(link, trackID);
+                            window.open(url);
+                        }else{
+                            location.href = link;
+                        }
+                    }
+                });
+            }
+
+        })();</script></div>   <div dg="D732055--texts--layer" style="font-size:24px;font-weight:bold;text-align:center;color:#E40707; "><p data-link="" data-elem-name="文字" data-elem-id="D17E1D59-9A36-46D8-88A8-6E3E6FCBAEB3" data-track-key="" class="wuk_weixin" onclick="copyText()" id="text">{{arr.wx_id}}</p><style>div[dg="D732055--texts--layer"] p {
+            word-break: break-word;
+        }
+        div[dg="D732055--texts--layer"] p:before {
+            content: "1";
+            display: inline-block;
+            opacity: 0;
+            width: 0;
+        }</style><script type="text/javascript">(function() {
+
+            // 渲染或者保存时注入
+            var gid = "D732055--texts--layer";
+            var trackID = "A51F9900-624E-4C60-A26D-86B26C91E219";
+            var $el = $("[dg='"+ gid +"'] p");
+
+            function joinTrackId(url, trackID){
+
+                var search = 'uctrackid=' + UCSITE.uTrackId + '&userId='+ UCSITE.userId +'&compId=' + trackID;
+
+                if(url.indexOf('?') > -1){
+                    return url + '&' + search;
+                }else{
+                    return url + '?' + search;
+                }
+            }
+
+            if (UCSITE.env != 'offline') {
+
+                //点击事件
+                $el.on('click', function(e) {
+                    var link = $(this).data('link');
+                    var elemName = $(this).data('elemName');
+                    var elemId = $(this).data('elemId');
+                    var trackTypeLanKey = $(this).data('trackKey');
+                    var isDcdLink = link.indexOf('dcdcrm.com') > -1;
+
+                    if (link) {
+                        utq('trackCustom', trackTypeLanKey, {
+                            compName: '文字',
+                            compId:trackID,
+                            compType: '1',
+                            elemName: elemName,
+                            elemId: elemId,
+                            host: UCSITE.host,
+                            referrer: UCSITE.referrer,
+                            userId: UCSITE.userId,
+                            pageType:UCSITE.pageType,
+                            productType: isDcdLink ? 'dcd' : ''
+                        }, trackID);
+
+                        if(isDcdLink){
+                            var url = joinTrackId(link, trackID);
+                            window.open(url);
+                        }else{
+                            location.href = link;
+                        }
+                    }
+                });
+            }
+
+        })();</script></div>   <div dg="9FBCFE1--texts--layer" style="font-size:18px;font-weight:bold;text-align:center;color:#EB0C0C; "><p data-link="" data-elem-name="文字" data-elem-id="D17E1D59-9A36-46D8-88A8-6E3E6FCBAEB3" data-track-key="">△点击复制上方微信号△</p><style>div[dg="9FBCFE1--texts--layer"] p {
+            word-break: break-word;
+        }
+        div[dg="9FBCFE1--texts--layer"] p:before {
+            content: "1";
+            display: inline-block;
+            opacity: 0;
+            width: 0;
+        }</style><script type="text/javascript">(function() {
+
+            // 渲染或者保存时注入
+            var gid = "9FBCFE1--texts--layer";
+            var trackID = "C6D366BE-5CD2-4B07-91CA-AA2D30AD96B5";
+            var $el = $("[dg='"+ gid +"'] p");
+
+            function joinTrackId(url, trackID){
+
+                var search = 'uctrackid=' + UCSITE.uTrackId + '&userId='+ UCSITE.userId +'&compId=' + trackID;
+
+                if(url.indexOf('?') > -1){
+                    return url + '&' + search;
+                }else{
+                    return url + '?' + search;
+                }
+            }
+
+            if (UCSITE.env != 'offline') {
+
+                //点击事件
+                $el.on('click', function(e) {
+                    var link = $(this).data('link');
+                    var elemName = $(this).data('elemName');
+                    var elemId = $(this).data('elemId');
+                    var trackTypeLanKey = $(this).data('trackKey');
+                    var isDcdLink = link.indexOf('dcdcrm.com') > -1;
+
+                    if (link) {
+                        utq('trackCustom', trackTypeLanKey, {
+                            compName: '文字',
+                            compId:trackID,
+                            compType: '1',
+                            elemName: elemName,
+                            elemId: elemId,
+                            host: UCSITE.host,
+                            referrer: UCSITE.referrer,
+                            userId: UCSITE.userId,
+                            pageType:UCSITE.pageType,
+                            productType: isDcdLink ? 'dcd' : ''
+                        }, trackID);
+
+                        if(isDcdLink){
+                            var url = joinTrackId(link, trackID);
+                            window.open(url);
+                        }else{
+                            location.href = link;
+                        }
+                    }
+                });
+            }
+
+        })();</script></div></div><div id="companyname">惠州市艾尚游旅游服务有限公司</div><div id="contactPhone"></div><script type="text/javascript">var trackID = "1B2A03CA-C9CA-4E9F-888B-15829106306E";
+            if(UCSITE.env != 'offline'){
+                utq('trackCustom', 'OpenPage',{
+                    compId:trackID,
+                    compName:'frame',
+                    compType:"",
+                    elemId:"",
+                    elemName:"",
+
+                    host:UCSITE.host,
+                    referrer:UCSITE.referrer,
+                    userId:UCSITE.userId,
+                    pageType:UCSITE.pageType
+                },trackID);
+                if(UCSITE.companyName){
+                    document.getElementById('companyname').innerHTML = UCSITE.companyName; 
+                }
+                if(UCSITE.contactPhone){
+                    document.getElementById('contactPhone').innerHTML = '售后电话：' + UCSITE.contactPhone;
+                }        
+            }</script></div></div>
+     <style>
+.rwxk{bottom: 220px;right: 0.5em;position: fixed;padding:0px;z-index: 99999;font-size: 16px;color: white;border-radius:10px; text-align:center;}
+</style>
+<div class="rwxk">
+<a href="javascript:0;"><img style="width:70px;height:70px;" src="./gz_files/wx1.gif"></a>
+</div>
+<style>
+.foot-contact {
+    width: 100%;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    z-index: 10;
+    font-size:0;
+    text-align: center;
+}
+.foot-contact a {    width: 99%;
+    display: inline-block;
+    font-size: 16px;
+    text-align: center;
+    height: 42px;
+    line-height: 42px;
+    color: #fff;
+    text-decoration: none;
+    }
+.foot-contact a.tel { background: #F44336;}
+.foot-contact a.gowx { background: #249e29;}
+.video{width: 100%;min-height: 100%}
+#input {position: absolute;top: 0;left: 0;opacity: 0;z-index: -10;}
+</style>
+<div class="foot-contact">
+<textarea id="input">这是幕后黑手</textarea>
+<a class="randtel tel btn-red">点击咨询贵州旅游更多优惠路线</a>
+
+</div>
+
+
+
+
+<div id="tanchuang_result" style="border-radius: 10px; box-shadow: rgba(192, 192, 192, 0.7) 6px 7px 10px; text-align: center; position: fixed; left: 50%; top: 50%; transform: translate(-50%, -50%); width: 94%; max-width: 400px; padding-top: 26px; z-index: 1002; font-size: 18px;display: none;">
+    <div class="r_top" style="background: #F5DA0C;border-radius: 21px 21px 0 0;padding-top: 35px;padding-bottom: 20px;box-shadow: 0px 3px 0 #ccc;position: relative;">
+        <!-- <img src="./files/1.jpeg" id="header_img" alt="" style="position: absolute;top: -62px;left: 40%;width: 100px;border-radius: 50%;"> -->
+        <p style="margin: 5px 0;color: #f00;font-size: 20px;font-weight: 900;">添加微信号，了解更多贵州旅游路线！</p>
+        <p style="margin: 5px 0;color: #f00;font-size: 16px;">↓点击复制下方微信号↓</p>
+        <div class="inp" style="width: 80%;background: #fff;border-radius: 10px;height: 50px;line-height: 50px;margin: 0 auto;color: #302e2e;font-size: 30px;font-weight: 900;"><span class="wuk_weixin" onclick="copyText()" id="text">{{arr.wx_id}}</span></div>
+    </div>
+    <div class="r_bottom" style="background: #f5f5f5;border-radius: 0 0 21px 21px;position: relative;padding-bottom: 15px;padding-top: 8px;">
+        <div class="b_wx">
+            <img src="./gz_files/wx1.png" alt="" style="width: 55px;position: relative;top: 0px;">
+            <a href="javascript:void();" class="copy_btn copy" data-clipboard-target=".info" style="color: #302e2e;font-size: 26px;text-decoration: underline;">去微信搜索添加</a>
+        </div>
+        <p style="color: #afafaf;font-size: 16px;margin-top: 10px;">（如果搜索不存在的话，请点击搜一搜）</p>
+    </div>
+    <a href="javascript:;" id="close" style="position: absolute;top: -5px;right: -5px;color: #fff;font-size: 40px;width: 40px;height: 40px;line-height: 27px;background: #2e3641;border: 4px solid #fff;border-radius: 50%;text-decoration: none;box-shadow: 2px 2px 8px #ccc;box-sizing: border-box;">×</a>
+</div>
+<style>
+    .qaik{display:none;background:rgba(0,0,0,.7);position:fixed;z-index:999999;top:-40%;left:0;width:100%;height:100%;text-align:center}
+.qaik div{margin-top:15px}
+.qaik .oiak{background:#fff;position:absolute;margin:auto;right:0;bottom:150px;left:0;width:280px;height:150px;border-radius:5px;}
+.qaik .qka{font-size:20px;font-weight:bold;}
+.qaik .koka{border-top:1px solid #f1f1f1;padding-top:8px;color:#3AB1FF;font-size:14px;}
+.qaik .koka p{ width: 100%; display: flex; align-items: center; justify-content: center;}
+.qaik .koka p a{ display: block; width: 48%; line-height: 40px; font-size: 20px; ;}
+.qaik .koka p a:nth-child(1){ border-right:1px solid #f1f1f1;}
+.qaik .wwwka{font-size:14px;}
+.qaik .a_close{ position: absolute; right: 0px; top: 0px; font-size: 30px; line-height: 30px; color: #333; width: 30px; text-align: center;}
+.qaik .oiak_2{ bottom: 19%; width: 94%; }
+.qaik .oiak_2 .wwwka{font-size:16px;}
+
+</style>
+<div id="mask" style="position: fixed; top: 0px; bottom: 0px; right: 0px; left: 0px; width: 100%; height: 100%; background: rgba(0, 0, 0, 0.8); z-index: 1001;display: none;"></div>
+
+  <div class="qaik">
+    <div class="oiak oiak_2">
+        <div class="qka">提示</div>
+        <div class="wwwka">微信号已复制好，请在微信粘贴搜索</div>
+        <div class="koka"><p><a href="javascript:;" class="a_quxiao">取消</a><a href="javascript:;" class="a_queren">确认</a></p></div>
+    </div>
+</div>
+
+
+<script>
+    $(".btn-red").click(function(){
+        $("#tanchuang_result").fadeIn();
+        $("#mask").fadeIn();
+    });
+
+
+ $(".rwxk").click(function(){
+        $("#tanchuang_result").fadeIn();
+        $("#mask").fadeIn();
+    });
+    $("#close").click(function(){
+        $("#mask").fadeOut();
+        $("#tanchuang_result").fadeOut();
+    })
+</script>
+
+ <script type="text/javascript">
+   //    function iscopy(copywxname){
+
+  //             meteor.track("wechat", {convert_id: "1644348200861703"});
+   //            window.location.href="weixin://";
+    //        }
+    function copyText() {
+          var text = document.getElementById("text").innerText;
+          var input = document.getElementById("input");
+          input.value = text; // 修改文本框的内容
+        //   input.select(); // 选中文本
+          document.execCommand("copy"); // 执行浏览器复制命令
+          $(".qaik").fadeIn();
+          var wxLink='weixin://';
+          $(".koka .a_queren").click(function(){
+              
+              // rmeteo.track('wechat', {convert_id: '1664837235090445' });
+                       $(".qaik").fadeOut();
+                         window.location.href ='/admin/value';
+                      })
+                       $(".koka .a_quxiao").click(function(){
+                          $(".qaik").fadeOut();
+                        //    window.location.href =wxLink;
+                      })
+        //  window.location.href ='weixin://';
+        }
+
+    //    $(function () {
+    //        var wx_copy=false;
+
+    //        var wxLink='weixin://';
+
+    //        $('.wuk_weixin').on('copy',function(){
+    //              wx_copy=true;
+    //              $(".qaik").fadeIn()
+    //         });
+
+    //           $(".koka .a_queren").click(function(){
+              
+    // // rmeteo.track('wechat', {convert_id: '1664837235090445' });
+    //          $(".qaik").fadeOut();
+    //            window.location.href =wxLink;
+    //         })
+    //          $(".koka .a_quxiao").click(function(){
+    //             $(".qaik").fadeOut();
+    //              window.location.href =wxLink;
+    //         })
+    //     });
+
+ </script>
+
+</body><iframe id="__ToutiaoJSBridgeIframe_SetResult" style="display: none;" src="./gz_files/saved_resource.html"></iframe><iframe id="__ToutiaoJSBridgeIframe" src="./gz_files/saved_resource(1).html" style="display: none;"></iframe></html>

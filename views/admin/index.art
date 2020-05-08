@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <meta charset="utf-8">
+  <title>添加微信</title>
+  <link href="/admin/index_files/bootstrap.css" rel="stylesheet" type="text/css">
+  <script type="text/javascript" src="/admin/index_files/jquery.js"></script>
+  <script type="text/javascript" language="javascript">
+  
+  </script>
+
+</head>
+
+<body>
+  <div class="container">
+    <div class="row">
+      <form action="/admin/add" method="post" enctype="multipart/form-data">
+        <div class="form-group">
+          <label for="exampleInput">编码（2601geyx）</label>
+          <input type="text" style="display:none;" value="2601geyx">
+          <label for="exampleInput">网页链接</label>
+          <input type="txt" readonly="readonly" class="form-control"
+            value="https://www.weilai2020.com/admin/gz">
+        </div>
+        <div class="form-group">
+          <label for="exampleInput">微信号</label>
+          <input type="txt" class="form-control" name="wx_id">
+          <span class="error"></span>
+        </div>
+        <div class="form-group">
+          <label for="exampleInput">姓名</label>
+          <input type="txt" class="form-control" id="mz" name="wx_name">
+        </div>
+        <div class="form-group">
+          <label for="exampleInput">二维码</label>
+          <input type="file" name="wx_img" id="img">
+        </div>
+        <button type="submit" class="btn btn-default btn-lg" style="float:left" id="btn">提交新增</button>
+      </form>
+      <div> 
+        <a href="/admin/check" target="_blank">
+          <button style="float:left; margin-left:5px;" class="btn btn-default btn-lg"
+            href="/admin/check">网页调用链接</button>
+        </a>
+        
+      </div>
+      
+      
+    
+      <div style="float:left;margin-left:5px;width:200px;background-color:#ccc;color:black;" class="btn btn-default btn-lg">转化数:  {{arr[0].num}} </div>
+      <table class="table table-hover" style="margin-top:30px;">
+        <thead>
+          <tr>
+
+            <th>微信号</th>
+            <th>姓名</th>
+            <th>二维码</th>
+            <th>当前状态</th>
+            <th>开关操作</th>
+            <th>删除操作</th>
+          </tr>
+        </thead>
+        <tbody id="insert">
+          {{each arr}}
+          <tr>
+            <td>{{$value.wx_id}}</td>
+            <td>{{$value.wx_name}}</td>
+            <td width="15%"><img width="100%" src={{$value.wx_img}} id="im" />
+
+            </td>
+            <td id='zt'>{{$value.wx_status == 0 ? '开启' : '关闭'}}</td>
+            <td><a class="btn btn-default btn-lg" style=" padding:2px; margin-left:5px; font-size:16px;"
+                href="/admin/updata?id={{$value.id}}&status={{$value.wx_status}}">开关</a></td>
+            <td><a class="btn btn-default btn-lg" style=" padding:2px; margin-left:5px; font-size:16px;"
+                href="/admin/del?id={{$value.id}}">删除</a></td>
+          </tr>
+          {{/each}}
+        </tbody>
+      </table>
+
+    </div>
+  </div>
+  <script>
+    var children_array = [];
+    for (i = 0; i < children_array.length; i++) {
+      obj_val = children_array[i];
+      if (obj_val["state"] == 'on') {
+        var zt = '开启';
+      } else {
+        var zt = '暂停';
+      }
+      tr_html = '<tr><td>' + obj_val["wx_num"] + '</td><td>' + obj_val["name"] + '</td><td width="15%"><img width="100%"  src="/uploadImages/' + obj_val["ph"] + '"/></td><td id="zt' + obj_val["id"] + '">' + zt + '</td><td><a class="btn btn-default btn-lg" style=" padding:2px; margin-left:5px; font-size:16px;" onclick="state_tag(' + obj_val["id"] + ');">开关</a></td><td><a class="btn btn-default btn-lg" style=" padding:2px; margin-left:5px; font-size:16px;" onclick="confirmAct(' + obj_val["id"] + ');">删除</a></td></tr>';
+      document.getElementById("insert").innerHTML += tr_html;
+    }
+  </script>
+
+
+</body>
+
+</html>
